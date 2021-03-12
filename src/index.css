@@ -1,0 +1,38 @@
+html{
+  font-size: 62.5;
+  box-sizing: border-box;
+}
+
+
+body, #root{
+  height: 100vh;
+  margin: 0;
+
+}
+/*
+.wrapper{
+  display: grid;
+ 
+  grid-template-columns: 1fr  ;
+  grid-template-rows: 100px 1fr 100px;
+
+}
+
+header{
+ grid-column: 1/-1;
+ background-color: aquamarine;
+}
+
+
+SideBar{
+ grid-row: 2/-1;
+ 
+}
+
+
+Content{
+  grid-column:2/-1 ;
+  background-color: blueviolet;
+ 
+}
+*/
